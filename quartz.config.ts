@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "leiyu.ca",
-    ignorePatterns: ["private", "templates", ".obsidian", "*.canvas", "old", "attachments", "Excalidraw"],
+    ignorePatterns: ["private", "template", ".obsidian", "*.canvas", "old", "attachments", "Excalidraw"],
     defaultDateType: "created",
     theme: {
       typography: {
