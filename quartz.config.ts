@@ -7,10 +7,10 @@ const config: QuartzConfig = {
     enableSPA: false,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: 'G-P8B588217V'
     },
     baseUrl: "leiyu.ca",
-    ignorePatterns: ["private", "template", ".obsidian", "*.canvas", "old", "attachments", "Excalidraw"],
+    ignorePatterns: ["private", "template", ".obsidian", "*.canvas", "attachments", "Excalidraw"],
     defaultDateType: "created",
     theme: {
       typography: {
@@ -44,6 +44,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.Scripture(),
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
@@ -55,9 +56,8 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
-      Plugin.Scripture(),
     ],
-    filters: [Plugin.ExplicitPublish()],
+    filters: [Plugin.ExplicitPublish(), Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources({ fontOrigin: "googleFonts" }),

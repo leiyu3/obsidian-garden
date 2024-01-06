@@ -17,17 +17,6 @@ export const Scripture: QuartzTransformerPlugin<Options> = (opts?: Options) => {
                     bibleVersion: 'ESV',			
                     roundCorners: true,
                     socialSharing: [],
-                    tooltipStyle: 'dark',
-                    customStyle : {
-                        heading: {
-                            backgroundColor : '#000000',
-                            color : '#FFFFFF'
-                        },
-                        body   : {
-                            color : '#FFFFFF',
-                            fontSize: '18px'
-                        }
-                    }
                 }
             };
             (function(d, t) {
