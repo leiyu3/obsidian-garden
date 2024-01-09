@@ -2,6 +2,27 @@
 
 // put your custom CSS here!
 
-span.ch-ref {
-    color: #777;
+[saved-theme="dark"]{ 
+
+    .rtLight .rtTooltipHeader {
+        background: var(--light); 
+        color: var(--dark);
+    }
+    
+    .rtTooltipBody {
+        background: var(--light);
+    }
+
+    .rtTooltipFooter {
+        background: var(--light);
+        // display: none;
+    }
+
+    span.ch-ref {
+        color: var(--dark);
+    }
+}
+
+[saved-theme="light"] span.ch-ref {
+    color: var(--darkgrey);
 }

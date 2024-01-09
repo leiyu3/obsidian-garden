@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: 'google', tagId: 'G-P8B588217V'
     },
     baseUrl: "leiyu.ca",
-    ignorePatterns: ["private", "template", ".obsidian", "*.canvas", "attachments", "Excalidraw"],
+    ignorePatterns: ["100 daily", "private", "template", ".obsidian", "*.canvas", "attachments", "Excalidraw"],
     defaultDateType: "created",
     theme: {
       typography: {
@@ -44,7 +44,6 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.Scripture(),
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
@@ -56,6 +55,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.Scripture(),
     ],
     filters: [Plugin.ExplicitPublish(), Plugin.RemoveDrafts()],
     emitters: [
