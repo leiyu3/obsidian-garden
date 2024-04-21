@@ -1,6 +1,6 @@
 ---
 title: School Resources
-cdate: 2022-06-07
+date: 2022-06-07
 categories:
   - resource
 mdate: 2022-09-19
