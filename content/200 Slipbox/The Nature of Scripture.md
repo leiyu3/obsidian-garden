@@ -1,5 +1,5 @@
 ---
-cdate: 2024-01-06
+date: 2024-01-06
 aliases: 
 title: The Nature of Scripture
 publish: true
