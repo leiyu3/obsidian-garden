@@ -3,7 +3,7 @@ aliases:
   - Oreo Cheese Cake
 title: No Bake Oreo Cheese Cake
 publish: true
-links:
+related:
   - https://thebusybaker.ca/easy-no-bake-oreo-cheesecake/#wprm-recipe-container-3825
 prep-time: 2 Hour
 tags:

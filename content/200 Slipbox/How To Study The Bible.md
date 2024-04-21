@@ -4,7 +4,7 @@ aliases:
   - Bible Study
 tags: 
 publish: true
-links:
+related:
   - "[[How to Read the Bible.canvas|How to Read the Bible.canvas]]"
 ---
 
