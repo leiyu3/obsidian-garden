@@ -15,7 +15,7 @@ const config: QuartzConfig = {
             provider: 'google', tagId: 'G-P8B588217V'
         },
         baseUrl: "leiyu.ca",
-        ignorePatterns: ["100 daily", "private", "template", ".obsidian", "*.canvas", "attachments", "Excalidraw", "Omnivore", "The Bible (ESV)"],
+        ignorePatterns: ["100 daily", "private", "template", ".obsidian", "*.canvas", "Excalidraw", "Omnivore", "The Bible (ESV)"],
         defaultDateType: "created",
         theme: {
             fontOrigin: "googleFonts",
