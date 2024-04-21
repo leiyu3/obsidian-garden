@@ -1,6 +1,6 @@
 ---
 title: How To Create Google Calendar Events in Bulk
-cdate: 2022-06-19
+date: 2022-06-19
 mdate: 2022-06-19
 categories:
   - how-to
