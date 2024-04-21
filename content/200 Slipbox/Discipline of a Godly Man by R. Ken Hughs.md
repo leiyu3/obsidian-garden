@@ -7,6 +7,7 @@ publish: true
 tags:
   - book
 title: Discipline of a Godly Man
+date: 2022-07-29
 ---
 
 ### 1 Discipline for Godliness
@@ -725,7 +726,7 @@ We need to be full of the Spirit. Or give off the aroma of Christ (Eph. 5:17-20)
 - asking the Spirit to fill us
 
 ##### Expendability
-[[../../Deut 34|Deuteronomy 34]]
+[[Deut 34|Deuteronomy 34]]
 
 **Moses was the greater spiritual leader Israel had. But even still God didn't need Moses. Even Moses was expendable.**
 
