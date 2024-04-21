@@ -1,5 +1,5 @@
 ---
-cdate: 2023-07-26
+date: 2023-07-26
 aliases:
   - Choux Cream
 tags:
