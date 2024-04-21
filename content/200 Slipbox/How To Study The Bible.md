@@ -1,5 +1,5 @@
 ---
-cdate: 2023-08-23
+date: 2023-08-23
 aliases:
   - Bible Study
 tags: 
