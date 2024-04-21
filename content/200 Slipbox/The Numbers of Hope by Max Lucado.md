@@ -1,10 +1,12 @@
 ---
-Author: Max Lucado
+Author:
+  - Max Lucado
 rating: 3
 date_finished: 2022-01-01
 publish: true
 tags:
   - book
+date: 2022-01-01
 ---
 
 Birth, is a passive verb. Babies doesn't give birth to itself. The mother does all the work! So is the process of being reborn. ^cfb4ad
@@ -14,7 +16,7 @@ We are a stubborn people with hard hearts. But God still pursued us, and sometim
 1.  Remember what God has done for you.
 2.  Remember what you have done against God.
 
-God [[Agape Love|agapes]] us.
+God [[../../Agape Love|agapes]] us.
 
 Jesus is uniquely the One and Only Son of God. Jesus shares the same essence as God the Father. Christ claim Ultimate clout (pg. 46). The only way to God is Jesus.
 
