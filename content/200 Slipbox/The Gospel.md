@@ -1,5 +1,5 @@
 ---
-cdate: 2022-05-10 21:00
+date: 2022-05-10 21:00
 aliases:
   - Gospel
 publish: true
