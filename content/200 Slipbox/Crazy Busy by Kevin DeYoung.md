@@ -25,7 +25,7 @@ date: 2024-02-05
 - Busyness can ruin our joy
 	- Set margins in our life
 	- busyness is like sin; kill it or it will be killing you
-- Busyness can rob our heart [[../../Parable of the Soil|Parable of the Soil]]
+- Busyness can rob our heart [[./Parable of the Soil|Parable of the Soil]]
 	- worries of life, and things
 - Busyness can cover up the rot in our souls
 	- busyness as a way to cover up deeper heart problems
