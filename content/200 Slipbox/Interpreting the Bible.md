@@ -1,12 +1,12 @@
 ---
-cdate: 2024-01-06
+date: 2024-01-06
 aliases: 
 title: Interpreting the Bible
 publish: true
 ---
 
 ## The Need to Interpret the Bible
-![The Need to Interpret](../../The%20Need%20to%20Interpret%20The%20Bible.md)
+![The Need to Interpret](./The%20Need%20to%20Interpret%20The%20Bible.md)
 
 
 ## The Aim of Interpretation
