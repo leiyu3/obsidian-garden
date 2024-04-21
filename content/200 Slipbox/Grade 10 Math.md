@@ -4,16 +4,16 @@ aliases:
 title: Grade 10 Math
 publish: true
 ---
-## [Analytic Geometry](url)
+## [Analytic Geometry](./Analytic Geometry.md)
 ## Midpoint and Length of a Line Segment
-## [Midpoint of a Line Segment](url)
+## [Midpoint of a Line Segment]({{url}})
 Equation to find the mid point of a line segment:
 - Given 2 points
 $$
 MP=\left(\frac{x_2+x_1}{2},\frac{y_2+y_1}{2}\right)
 $$
 
-## [Length of a Line Segment](url)
+## [Length of a Line Segment]({{url}})
 Equation for the length of a line segment:
 $$
 \overline{AB}=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}
@@ -46,7 +46,7 @@ $$
 > - use altitude slope and point of vertex to find y-int of altitude
 
 ## Circles
-## [Equation of a Circle](url)
+## [Equation of a Circle]({{url}})
 $r$, radius
 (h, k) center point
 $$
