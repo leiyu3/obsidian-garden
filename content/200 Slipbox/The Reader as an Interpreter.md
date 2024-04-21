@@ -1,5 +1,5 @@
 ---
-cdate: 2024-01-04
+date: 2024-01-04
 aliases:
   - The Nature of the Reader
 title: The Reader as an Interpreter
