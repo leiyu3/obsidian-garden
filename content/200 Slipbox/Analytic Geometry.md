@@ -7,9 +7,9 @@ related:
 ---
 
 ## Midpoint and Length of a Line Segment
-![[./Midpoint of a Line Segment|Midpoint of a Line Segment]]
+-> [[./Midpoint of a Line Segment|Midpoint of a Line Segment]]
 
-![[./Length of a Line Segment|Length of a Line Segment]]
+-> [[./Length of a Line Segment|Length of a Line Segment]]
 
 ## Medians, Right Bisectors, and Altitudes
 
@@ -36,4 +36,4 @@ related:
 > - use altitude slope and point of vertex to find y-int of altitude
 
 ## Circles
-![[./Equation of a Circle|Equation of a Circle]]
+-> [[./Equation of a Circle|Equation of a Circle]]
