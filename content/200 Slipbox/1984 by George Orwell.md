@@ -6,6 +6,7 @@ date_finished: 2015-01-01
 tags:
   - book
 publish: true
+date: 2015-01-01
 ---
 
 A dystopian about a totalitarian society.
