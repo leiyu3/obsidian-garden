@@ -15,6 +15,7 @@ As well as the:
 
 So much parables in Matthew 13
 
+index
 
 Purpose of the Parables
 
