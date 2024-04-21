@@ -1,5 +1,5 @@
 ---
-cdate: 2024-01-06
+date: 2024-01-06
 aliases: 
 title: Bible Translations
 publish: true
