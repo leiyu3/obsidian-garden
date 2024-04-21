@@ -1,5 +1,5 @@
 ---
-cdate: 2023-06-01
+date: 2023-06-01
 aliases:
   - Recipes
 publish: true
