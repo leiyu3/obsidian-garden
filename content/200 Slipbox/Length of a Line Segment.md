@@ -1,5 +1,5 @@
 ---
-cdate: 2022-10-27 22:36
+date: 2022-10-27 22:36
 aliases:
   - Length of a Line Segment
 tags:
