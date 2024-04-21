@@ -4,7 +4,7 @@ date: 2022-05-08T16:06:53-04:00
 mdate: 2022-05-08
 snippet: Learn how to make maki rolls
 publish: true
-links:
+related:
   - "[[Recipe|Recipe]]"
 aliases:
   - sushi
