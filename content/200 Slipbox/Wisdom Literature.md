@@ -5,7 +5,7 @@ title: Wisdom Literature
 publish: true
 ---
 
-[[Proverbs Overview|Proverbs]], [[Job Overview|Job]], [[Psalms Overview|Psalms]], [[Songs of Solomon Overview|Songs of Solomon]] are under the category of wisdom literature.
+[[../../Proverbs Overview|Proverbs]], [[Job Overview|Job]], [[Psalms Overview|Psalms]], [[Songs of Solomon Overview|Songs of Solomon]] are under the category of wisdom literature.
 
 ## Proverb
 Proverb contains many wise saying.
