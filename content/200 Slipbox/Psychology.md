@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-28
+date: 2023-12-28
 aliases: 
 title: Psychology
 publish: true
