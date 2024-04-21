@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-15
+date: 2023-12-15
 aliases: 
 title: High Priest
 publish: true
