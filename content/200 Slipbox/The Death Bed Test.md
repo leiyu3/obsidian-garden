@@ -1,5 +1,5 @@
 ---
-cdate: 2024-02-06
+date: 2024-02-06
 aliases: 
 title: The Death Bed Test
 publish: true
