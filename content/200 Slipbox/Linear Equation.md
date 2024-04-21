@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-14
+date: 2023-12-14
 aliases:
   - Line Equation
 title: Linear Equation
