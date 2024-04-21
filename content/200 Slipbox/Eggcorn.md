@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-25
+date: 2023-12-25
 aliases: 
 title: Eggcorn
 publish: true
