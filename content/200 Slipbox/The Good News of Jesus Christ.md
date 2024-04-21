@@ -1,6 +1,6 @@
 ---
 title: The Gospel of Jesus Christ
-cdate: 2023-09-12T08:08:15-04:00
+date: 2023-09-12T08:08:15-04:00
 url:
   - gospel
 categories:
