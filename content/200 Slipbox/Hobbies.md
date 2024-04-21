@@ -1,5 +1,5 @@
 ---
-cdate: 2022-09-30 15:13
+date: 2022-09-30 15:13
 aliases:
   - Hobbies
   - My Hobbies
