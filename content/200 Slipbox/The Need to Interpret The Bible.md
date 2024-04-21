@@ -1,5 +1,5 @@
 ---
-cdate: 2024-01-20
+date: 2024-01-20
 aliases:
   - The Need to Read the Bible
 title: The Need to Interpret
