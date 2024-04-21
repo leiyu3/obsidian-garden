@@ -3,7 +3,7 @@ title: Japanese Learning Adventures
 categories:
   - japanese
   - resource
-cdate: 2023-09-06
+date: 2023-09-06
 mdate: 2023-09-07
 url:
   - /jla
