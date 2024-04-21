@@ -9,7 +9,7 @@ publish: true
 recommended-by:
   - "[[Jason Kim|Jason Kim]]"
 date_started: 2024-02-05
-title: Crazy Buzy
+title: Crazy Busy
 ---
 
 ## Hello My Name is Busy
