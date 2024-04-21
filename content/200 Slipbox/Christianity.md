@@ -5,8 +5,8 @@ title: Christianity
 publish: true
 ---
 ## Other
-- [[../../Church|Church]]
-- [[../../Predestination|Predestination]]
+- [[./Church|Church]]
+- [[./Predestination|Predestination]]
 - [[../../Protestant|Protestant]]
 
 ## Denominations
@@ -15,10 +15,10 @@ Now there are still few variations between Christians. There are differences in 
 - [[../../Difference between Catholic and Protestant|Difference between Catholic and Protestant]]
 - Protestant
 	- Bible > Church and Tradition
-	- [[../../Baptist|Baptist]]
+	- [[./Baptist|Baptist]]
 	- Anglican
 	- Lutheran
-	- [[../../Methodist|Methodist]]
+	- [[./Methodist|Methodist]]
 		- Pentecostal
 - Catholics
 	- Church > Bible
@@ -32,5 +32,5 @@ Now there are still few variations between Christians. There are differences in 
 [[../../Biblical Manhood|Biblical Manhood]]
 
 ## Bible Study
-[[Hebrews Overview|Hebrews Overview]]
+[[../../Hebrews|Hebrews]]
 [[../../Romans Overview|Romans Overview]]
