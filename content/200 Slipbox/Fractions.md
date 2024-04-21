@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-27
+date: 2023-12-27
 aliases:
   - Rational Numbers
 title: Fractions

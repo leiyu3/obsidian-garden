@@ -1,6 +1,6 @@
 ---
 title: Migrating AGC Sermons to CGCSM Website
-cdate: 2022-06-07T13:49:28-04:00
+date: 2022-06-07T13:49:28-04:00
 tags:
   - how-to
 mdate: 2022-06-08T13:49:28-04:00

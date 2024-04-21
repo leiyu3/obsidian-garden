@@ -1,5 +1,5 @@
 ---
-cdate: 2022-10-04 16:16
+date: 2022-10-04 16:16
 aliases:
   - Math
 tags: []

@@ -1,5 +1,5 @@
 ---
-cdate: 2024-01-06
+date: 2024-01-06
 aliases: 
 title: The Science of Translation
 publish: true

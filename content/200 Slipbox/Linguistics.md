@@ -1,5 +1,5 @@
 ---
-cdate: 2023-11-15
+date: 2023-11-15
 aliases: 
 tags:
   - reference

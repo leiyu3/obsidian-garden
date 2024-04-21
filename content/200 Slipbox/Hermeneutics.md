@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-18
+date: 2023-12-18
 aliases: 
 title: Hermeneutics
 publish: true

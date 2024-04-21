@@ -1,5 +1,5 @@
 ---
-cdate: 2023-12-29
+date: 2023-12-29
 aliases: 
 title: Christianity
 publish: true

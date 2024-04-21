@@ -1,5 +1,5 @@
 ---
-cdate: 2022-10-27 22:32
+date: 2022-10-27 22:32
 aliases:
   - Midpoint of a Line Segment
 tags:

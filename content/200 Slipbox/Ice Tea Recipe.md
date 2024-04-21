@@ -1,5 +1,5 @@
 ---
-cdate: 2023-08-11
+date: 2023-08-11
 aliases:
   - Steve's Ice Tea
 tags:
