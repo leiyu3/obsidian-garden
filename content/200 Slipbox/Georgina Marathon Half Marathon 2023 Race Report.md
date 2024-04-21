@@ -1,6 +1,6 @@
 ---
 title: "Georgina Marathon: First Half Marathon 2023 Race Report"
-cdate: 2023-09-10T15:50:53-04:00
+date: 2023-09-10T15:50:53-04:00
 url:
   - gmhm2023
 tags:
