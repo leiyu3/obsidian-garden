@@ -1,6 +1,6 @@
 ---
 title: Toronto Waterfront Half Marathon 2023 Race Report
-cdate: 2023-10-25T18:52:50-04:00
+date: 2023-10-25T18:52:50-04:00
 mdate: 2023-10-25T18:52:50-04:00
 tags:
   - race_report
