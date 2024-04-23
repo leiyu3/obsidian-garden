@@ -1,6 +1,6 @@
 ---
 Author:
-  - John R.W. Stott
+  - John Stott
 Rating: 4
 date_finished: 2024-02-15
 tags:
