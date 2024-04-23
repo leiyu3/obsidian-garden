@@ -1,11 +1,12 @@
 ---
 author:
   - C.S. Lewis
-rating: 4
+Rating: 4
 tags:
   - book
 publish: true
 date: 2024-04-20
+title: Mere Christianity
 ---
 
 The chapters are small and contained. 
