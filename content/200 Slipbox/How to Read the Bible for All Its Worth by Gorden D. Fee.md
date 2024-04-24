@@ -1,6 +1,7 @@
 ---
 Author:
-  - Gorden D. Fee, Douglas Stuart
+  - Gorden D. Fee
+  - Douglas Stuart
 Rating: 4
 date_finished: 
 publish: true
