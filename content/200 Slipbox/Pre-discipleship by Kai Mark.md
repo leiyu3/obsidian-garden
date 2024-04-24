@@ -7,7 +7,6 @@ tags:
   - book
 publish: true
 date_started: 2023-12-02
-title: Pre-discipleship
 ---
 ## Review
 The book is good for most part, there are some part of the book which I didn't really connect with and felt was too dense and went over my head. He quotes a lot of ideas that others have thought of to help support his point of the importance of Prediscipleship and that it is the right way that we should do evangelism. I think it is fair for him to write in that way. But I would say maybe 30% of the book as a lot of things that I just felt not necessary. Especially when he started to quote a bunch of people I don't know about concepts and ideas that I don't get.

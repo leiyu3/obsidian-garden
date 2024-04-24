@@ -105,7 +105,7 @@ date: 2024-02-05
 - [[../../Technology|Technology]]
 - Dangers:
 	- Addiction
-		- [[The Shallows by Nicholas G. Carr|The Shallows by Nicholas G. Carr]]
+		- [[../../The Shallows by Nicholas G. Carr|The Shallows by Nicholas G. Carr]]
 		- 2 Peter 2:19
 	- Slothfulness (Acedia)
 		- apathetic passing of time
@@ -143,7 +143,7 @@ date: 2024-02-05
 
 ## Embracing the Burden of Business
 - the reason we are busy is because we are suppose to be busy
-	- But we are to [[./The Ruthless Elimination of Hurry by John Mark Comer|Eliminate Hurry]]
+	- But we are to [[../../The Ruthless Elimination of Hurry by John Mark Comer|Eliminate Hurry]]
 	- busy working on the wrong things
 - We are suppose to struggle, not in heaven yet [[Pain|Pain]]
 - Expect to suffer when you are committed to serving people

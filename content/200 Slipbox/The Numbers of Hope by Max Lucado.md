@@ -1,13 +1,12 @@
 ---
 Author:
   - Max Lucado
-Rating: 3
+rating: 3
 date_finished: 2022-01-01
 publish: true
 tags:
   - book
 date: 2022-01-01
-title: The Numbers of Hope
 ---
 
 Birth, is a passive verb. Babies doesn't give birth to itself. The mother does all the work! So is the process of being reborn. ^cfb4ad

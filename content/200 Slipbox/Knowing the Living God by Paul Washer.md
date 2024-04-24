@@ -6,7 +6,7 @@ date_started: 2022-09-26
 tags:
   - book
 Author:
-  - Paul Washer
+  - Paul D. Washer
 Rating: 3
 date_finished: 
 publish: true

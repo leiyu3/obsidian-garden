@@ -1,6 +1,6 @@
 ---
 Author:
-  - C. H. Spurgeon
+  - Charles H. Spurgeon
 Rating: 3
 date_finished: 2024-03-27
 tags:

@@ -10,7 +10,6 @@ tags:
 publish: true
 recommended-by: 
 date_started: 
-title: The Screwtape Letters
 ---
 [[../attachments/The Screwtape Letter.pdf|The Screwtape Letter.pdf]]
 ## Chapter 20
