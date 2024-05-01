@@ -18,7 +18,7 @@ Epistles are **Occasional Documents**. They are theology written with a particul
 [[../../Ephesians Overview|Ephesians]]
 
 [[../../Jude Overview|Jude Overview]]
-[[../../Philemon Overview|Philemon Overview]]
+[[../../Philemon|Philemon]]
 [[../../1 Peter Overview|1 Peter Overview]]
 ...
 
