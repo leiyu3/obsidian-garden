@@ -74,6 +74,10 @@ $$
 > > - if $a<0$, the parabola opens **DOWN**
 > > - the **y-intercept** is at $(0,c)$
 
+You can calculate $x_{\text{vertex}}$ straight from the standard from using the equation below:
+$$
+x_{\text{vertex}}=\frac{-b}{2a}
+$$
 ### Quadratics in Vertex Form
 > [!NOTE] Quadratics in Vertex Form
 > $$y=a(x-h)^2+k$$
@@ -85,6 +89,7 @@ $$
 > > 	- $h > 0$, moves **LEFT**
 > > 	- $h < 0$, moves **RIGHT**
 > > - the **y-intercept** is at $(0,c)$
+
 
 ### Quadratics in Factored Form
 > [!NOTE] Quadratics in Factored Form
@@ -136,8 +141,8 @@ $$
 >> \end{align}
 >> $$
 
+
 #### The Discriminant
- 
 > [!NOTE] The Discriminant
 > $$
 > D = b^2-4ac
