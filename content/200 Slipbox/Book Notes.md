@@ -40,7 +40,8 @@ Below are notes from books that I have read. They are mostly for personal use an
 | Title                                                                                                                                           | Author             | Rating | Date Finshed |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | ------------ |
 | [[../../Confronting Christianity by Rebecca McLaughlin\|Confronting Christianity: 12 Hard Questions for the World's Largest Religion]] | Rebecca McLaughlin |        |              |
-| [[../../My Upmost For His Highest by Oswald Chamber\|My Upmost For His Highest by Oswald Chamber]]                                     | Oswald Chamber     | 4      | 2023年12月31日  |
+| [[../../My Upmost For His Highest by Oswald Chamber\|My Upmost For His Highest by Oswald Chamber]]                                     | Oswald Chamber     | 4      | Dec 31, 2023 |
+| [[../../Amy Carmichael Rescuer of Precious Gems by Janet Benge\|Amy Carmichael: Rescuer of Precious Gems]]                             | Janet Benge        | 4      | Apr 26, 2024 |
 
 
 Inspired by [Derek Siver](https://sive.rs/book).
