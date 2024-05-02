@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { Staticrypt } from "./quartz/password"
 
 /**
  * Quartz 4.0 Configuration
@@ -70,6 +71,7 @@ const config: QuartzConfig = {
             Plugin.Description(),
             Plugin.HardLineBreaks(),
             Plugin.Scripture(),
+            Staticrypt(),
         ],
         filters: [Plugin.ExplicitPublish(), Plugin.RemoveDrafts()],
         emitters: [
