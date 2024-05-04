@@ -140,8 +140,6 @@ $$
 >> x&=\frac{-b\pm\sqrt{b^2-4ac}}{2a} \\
 >> \end{align}
 >> $$
-
-
 #### The Discriminant
 > [!NOTE] The Discriminant
 > $$
@@ -152,8 +150,6 @@ $$
 > > - $D = 0$,  one solution
 > > - $D > 0$, two solution
 > > - $D$ is a perfect square, the quadratic is factorable
-
-
 ## Trigonometry
 ### Similar Triangles
 - Triangles that have the same angles, but different sizes
