@@ -5,7 +5,6 @@ url:
   - gmhm2023
 tags:
   - race_report
-  - blog
 publish: true
 ---
 ### Race Information
