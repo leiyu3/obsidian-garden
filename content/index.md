@@ -3,14 +3,16 @@ publish: true
 title: About Me
 aliases:
   - About Me
-password: "1234"
 ---
 Welcome to my site! It is still new and many things are under construction. So there will be many things that looks out of place, not have enough details, or doesn’t exist yet! You are free to take a look around and see what is here.
 
 ## Me In 10 Seconds
-I am a Christian and I work as a [[./200 Slipbox/My Experience and Lessons Learned As A RPA Developer|RPA Developera]].
+I am a Christian and I work as a [[./200 Slipbox/My Experience and Lessons Learned As A RPA Developer|RPA Developer]].
 
 Born in Fujian, China. Now living in Ontario, Canada.
+
+## What I Am I Up To?
+Take at look at my [[../now|now]] page.
 
 ## Jump Off Points
 - [[./200 Slipbox/How To Study The Bible|How To Study The Bible]]
