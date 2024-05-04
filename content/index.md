@@ -12,11 +12,14 @@ I am a Christian and I work as a [[./200 Slipbox/My Experience and Lessons Learn
 Born in Fujian, China. Now living in Ontario, Canada.
 
 ## What I Am I Up To?
-Take at look at my [[../now|now]] page.
+Take at look at my [[./200 Slipbox/now|now]] page.
 
 ## Jump Off Points
+- [[./200 Slipbox/Book Notes|Book Notes]]
+- [[tags/mini_essay|tags/mini_essay]]
 - [[./200 Slipbox/How To Study The Bible|How To Study The Bible]]
 - [[./200 Slipbox/Grade 10 Math|Grade 10 Math]]
+- [[tags/race_report|tags/race_report]]
 
 ## Projects
 - [MathRacer](https://leiyu3.github.io/mathracer/), web app built with JavaScript and Bootstrap to help elementary students practice their multiplication tables.
