@@ -3,11 +3,12 @@ publish: true
 title: About Me
 aliases:
   - About Me
+password: "1234"
 ---
 Welcome to my site! It is still new and many things are under construction. So there will be many things that looks out of place, not have enough details, or doesn’t exist yet! You are free to take a look around and see what is here.
 
 ## Me In 10 Seconds
-I am a Christian and I work as a RPA Developer.
+I am a Christian and I work as a [[./200 Slipbox/My Experience and Lessons Learned As A RPA Developer|RPA Developera]].
 
 Born in Fujian, China. Now living in Ontario, Canada.
 
