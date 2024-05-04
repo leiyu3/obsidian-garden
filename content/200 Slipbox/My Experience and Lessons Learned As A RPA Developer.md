@@ -19,7 +19,3 @@ One lesson I learned is that having good colleagues and workplace culture makes 
 Another lesson I learned was that I enjoy problem solving. At first I was looking for engineering or software positions, working in RPA made me realized that what I really enjoy is problem solving. 
 
 In conclusion, my experience has taught me to be open to opportunities. Even if a role may not be exactly what you were looking for, it might lead you to learn something new about yourself. Also, good colleagues can make a world of difference in you work place. Therefore, strive to be a good colleague yourself!
-
-
-> [!QUOTE] [SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
-> Respect your seniors, love your juniors.
