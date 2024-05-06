@@ -23,7 +23,7 @@ God is Creator.
 ## 2. The Problem of Sin
 Man is sinful.
 
-[[Roman's Road|Roman's Road]]
+[[../../Romans Road|Romans Road]]
 [[../../Sin|Sin]]
 
 [[../../All Have Sinned|All Have Sinned]]
