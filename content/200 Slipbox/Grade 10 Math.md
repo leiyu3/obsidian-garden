@@ -164,6 +164,11 @@ $$
 ### SOH CAH TOA
 ![[../attachments/Grade 10 Math-20240410173602814.webp|250|center]]
 
+$$
+\sin(\theta)=\frac{\text{opposite}}{\text{{hypotenuse}}} \text{,}\quad \cos(\theta)=\frac{\text{adjacent}}{\text{{hypotenuse}}} \text{,}\quad 
+\tan(\theta)=\frac{\text{opposite}}{\text{{adjacent}}}
+$$
+
 ### Sine Law
 
 > [!NOTE] Sine Law
