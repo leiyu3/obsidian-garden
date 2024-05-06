@@ -26,6 +26,7 @@ Below are notes from books that I have read. They are mostly for personal use an
 | [[./The Ruthless Elimination of Hurry by John Mark Comer\|The Ruthless Elimination of Hurry]]                      | John Mark Comer     | 3      | Feb 5, 2024  |
 | [[./Seven Discoveries by Kai Mark\|Seven Discoveries]]                                                             | Kai Mark            | 4      | Dec 9, 2023  |
 | [[./Pre-discipleship by Kai Mark\|Pre-discipleship]]                                                               | Kai Mark            | 3      | Dec 2, 2023  |
+| [[./Inside Out by Larry Crabb\|Inside Out by Larry Crabb]]                                                         | Larry Crabb         | 4      | May 23, 2023 |
 | [[./Discipline of a Godly Man by R. Ken Hughs\|Discipline of a Godly Man]]                                         | R. Kent Hughs       | 4      | Jul 29, 2022 |
 | [[./The Numbers of Hope by Max Lucado\|The Numbers of Hope]]                                                       | Max Lucado          | 3      | Jan 1, 2022  |
 | [[./God's Smuggler by Brother Andrew\|God's Smuggler]]                                                             | Brother Andrew      | 5      | Jan 1, 2018  |

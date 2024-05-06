@@ -20,7 +20,6 @@ Take at look at my [[./200 Slipbox/now|now]] page.
 - [[./200 Slipbox/How To Study The Bible|How To Study The Bible]]
 - [[./200 Slipbox/Grade 10 Math|Grade 10 Math]]
 - [[tags/race_report|Race Reports]]
-- [[tags/race_report|tags/race_report]]
 
 ## Projects
 - [MathRacer](https://leiyu3.github.io/mathracer/), web app built with JavaScript and Bootstrap to help elementary students practice their multiplication tables.
