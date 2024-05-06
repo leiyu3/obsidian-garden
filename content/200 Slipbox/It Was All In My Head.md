@@ -6,7 +6,6 @@ publish: true
 related: 
 tags:
   - mini_essay
-  - wip
 ---
 The fear of failure and rejection often keeps us back and prevents us from achieving the reality we hope for. After all, the surest way to avoid failure is to avoid trying altogether. But looking back, I missed numerous opportunities because I feared rejection and failure. I could have made more friends if I had been less anxious about reaching out. I would have started a blog many years ago, but my fear of how people would perceive my writing prevented me.
 
