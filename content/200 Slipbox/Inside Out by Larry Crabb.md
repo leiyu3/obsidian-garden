@@ -6,6 +6,7 @@ date_finished: 2023-05-23
 tags:
   - book
 publish: true
+date: 2023-05-23
 ---
 
 ## Summary
