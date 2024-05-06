@@ -6,7 +6,7 @@ title: What I Am Doing Now?
 *Last modified May 4th, 2024*
 ### Work
 Currently working as a RPA Developer full time and a part time high school math tutor part time.
-### [[../../Learning Japanese Language|Learning Japanese]]
+### Learning Japanese
 Started learning Japanese around November of 2022. Mainly studying by comprehensible input, through watching anime and reading.
 
 I hope to one day do missions in Japan to share the good news of Jesus Christ. Learning Japanese is just one of the steps to achieve that.
@@ -27,9 +27,9 @@ I am also currently serving in an Japanese Out Reach Ministry that mainly focuse
 Getting back into running, aiming to do a sub 25 min 5k. And body weight exercises and tabata.
 
 ### What Podcasts am I listening to?
-- [Daily Audio Bible](https://daily
-- Focus
-- Cortex
+- [Daily Audio Bible](https://dailyaudiobible.com/)
+- [Focus](https://www.relay.fm/focused)
+- [Cortex](https://www.relay.fm/cortex)
 
 ### What am I Reading?
 - Going though the M'Cheyne bible reading plan for 2024.
