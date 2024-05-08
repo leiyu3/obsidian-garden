@@ -9,7 +9,7 @@ import { Staticrypt } from "./quartz/password"
  */
 const config: QuartzConfig = {
     configuration: {
-        pageTitle: "🪴 Lei Yu",
+        pageTitle: "~/ Lei Yu",
         enableSPA: true,
         enablePopovers: true,
         analytics: {
