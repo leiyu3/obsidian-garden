@@ -12,6 +12,11 @@ related:
 > [!QUOTE]- [[../../Ezek 36#26|Ezek 36:26-27]] 
 > $^{26}$ And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh.  $^{27}$ And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules.  
 
+> [!QUOTE]- [[../../Ezek 37#14|Ezek 37:14]] 
+> $^{14}$ And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD."I Will Be Their God; They Shall Be My People  
+
+> [!QUOTE]- [[../../Joel 2#28|Joel 2:28-29]] 
+> $^{28}$ "And it shall come to pass afterward, that I will pour out my Spirit on all flesh; your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions.  $^{29}$ Even on the male and female servants in those days I will pour out my Spirit.  
 
 - Moses anticipated the New Covenant
 	- one day the Lord will give Israel a "heart to understand" [[../../Deut 29#4|Deut 29:4]]
@@ -28,6 +33,7 @@ related:
 		- The law will be written on their heart (instead of on stone tablets)
 	- He will be their God, and they will be His people
 		- Similar to the Old Covenant but with no condition?
+		- against Israel's idolatry
 	- All shall know the Lord
 		- What does this actually mean?
 	- God will forgive their iniquity, and remember their sin no more
