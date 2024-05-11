@@ -2,9 +2,10 @@
 date: 2022-10-27 22:36
 aliases:
   - Length of a Line Segment
-tags:
-  - permanent
+tags: 
 publish: true
+related:
+  - "[[Mathematics|Mathematics]]"
 ---
 
 Equation for the length of a line segment:
