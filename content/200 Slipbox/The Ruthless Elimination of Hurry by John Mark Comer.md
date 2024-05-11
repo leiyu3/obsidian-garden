@@ -132,7 +132,8 @@ Seek Your Kingdom
 
 > [!QUOTE] Stephen Covey (7 Highly Habits of Highly Effective People)
 > We achieve inner peace when our schedule is aligned with our values
-
+- what would Jesus do in my position?
+- living your life for Jesus instead of making time out for Jesus
 - [[../../Time Tracking|Time Tracking]] as an experiment to see how much time you spend on things, what doesn't get tracked doesn't get managed
 - [[../../The Four Gospels|The Four Gospels]] are Biographies, which tells us Jesus' way of life 
 
