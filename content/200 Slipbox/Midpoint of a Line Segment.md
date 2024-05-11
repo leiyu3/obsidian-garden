@@ -2,9 +2,10 @@
 date: 2022-10-27 22:32
 aliases:
   - Midpoint of a Line Segment
-tags:
-  - permanent
+tags: []
 publish: true
+related:
+  - "[[Mathematics|Mathematics]]"
 ---
 
 Equation to find the mid point of a line segment:
