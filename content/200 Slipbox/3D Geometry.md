@@ -15,13 +15,18 @@ They all start with a base, then the sides either converge to a point (pyramid) 
 | Triangle      | Pyramid |
 | Quadrilateral |         |
 | Circle        | Cone    |
-- $v=\frac{1}{3}\text{area of base}\times\text{height}$
+
+> [!NOTE] Volume of Pyramids
+>  $$v=\frac{1}{3}\text{area of base}\times\text{height}$$
+
 ### Prisms
 | Base | Name |
 | ---- | ---- |
 | Triangle | Prism |
 | Quadrilateral |  |
 | Circle | Cylinder |
-- $v=\text{area of base}\times\text{height}$
+
+> [!NOTE] Volume of Prisms
+> $$v=\text{area of base}\times\text{height}$$
 
 
