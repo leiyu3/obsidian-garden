@@ -33,4 +33,4 @@ Now there are still few variations between Christians. There are differences in 
 
 ## Bible Study
 [[../../Hebrews|Hebrews]]
-[[../../Romans Overview|Romans Overview]]
+[[../../Romans|Romans]]
