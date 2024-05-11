@@ -26,19 +26,10 @@ export const defaultContentPageLayout: PageLayout = {
         Component.MobileOnly(Component.Spacer()),
         Component.Search(),
         Component.Darkmode(),
-        Component.DesktopOnly(Component.TableOfContents()),
+        Component.DesktopOnly(Component.Explorer()),
     ],
     right: [
-        Component.Graph({
-            localGraph: {
-                depth: 2,
-                showTags: false,
-            },
-            globalGraph: {
-                showTags: false,
-            }
-        }),
-        Component.DesktopOnly(),
+        Component.DesktopOnly(Component.TableOfContents()),
         Component.Backlinks(),
     ],
 }
