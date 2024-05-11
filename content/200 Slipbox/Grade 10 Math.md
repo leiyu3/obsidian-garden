@@ -162,6 +162,7 @@ $$
 	3. Side Angle Side similarity (2 ratios of side and 1 angle are equal)
 
 ### SOH CAH TOA
+
 ![[../attachments/Grade 10 Math-20240410173602814.webp|250|center]]
 
 $$

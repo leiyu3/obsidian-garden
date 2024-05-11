@@ -12,3 +12,8 @@ I get most of my ideas about Psychology from HealthyGamerGG
 [[../../Coping Mechanisms|Coping Mechanisms]]
 [[./Loneliness|Loneliness]]
 [[../../Comparison Game|Comparison Game]]
+
+
+[[../../You Might Not Be An Introvert|You Might Not Be An Introvert]]
+
+[[../../Male Insecurities|Male Insecurities]]

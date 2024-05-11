@@ -7,7 +7,7 @@ aliases:
 Welcome to my site! It is still new and many things are under construction. So there will be many things that looks out of place, not have enough details, or doesn’t exist yet! You are free to take a look around and see what is here.
 
 ## Me In 10 Seconds
-I am a Christian and I work as a [[./200 Slipbox/My Experience and Lessons Learned As A RPA Developer|RPA Developer]].
+I am a Christian and I work as a [[./200 Slipbox/My Experience and Lessons Learned As A RPA Developer|RPA Developer]] and a high school tutor on the side.
 
 Born in Fujian, China. Now living in Ontario, Canada.
 
@@ -15,8 +15,8 @@ Born in Fujian, China. Now living in Ontario, Canada.
 Take at look at my [[./200 Slipbox/now|now]] page.
 
 ## Jump Off Points
-- [[./200 Slipbox/Book Notes|Book Notes]]
 - [[tags/mini_essay|Mini Essays]]
+- [[./200 Slipbox/Book Notes|Book Notes]]
 - [[./200 Slipbox/How To Study The Bible|How To Study The Bible]]
 - [[./200 Slipbox/Grade 10 Math|Grade 10 Math]]
 - [[tags/race_report|Race Reports]]
