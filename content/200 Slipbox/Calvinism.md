@@ -1,8 +1,7 @@
 ---
 date: 2023-09-16
 aliases: 
-tags:
-  - permanent
+tags: []
 publish: true
 ---
 [[./Christianity|Christianity]]
