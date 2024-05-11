@@ -7,19 +7,19 @@ publish: true
 Majority of the New Testaments are Epistles. And majority of it are written by Paul.
 With a few written by James, John, Peter, and Hebrew having an unknown author.
 
-The Western Church really like Epistles since they have an Essay style of writing, specifically [[../../Romans Overview|Romans]]. The style of writing makes it easier to read than most of the writing in the Old Testament (Prophecy, Wisdom, Poetry, Narative). However, there are still some tricky passages in the Epistles that makes interpretation not so simple.
+The Western Church really like Epistles since they have an Essay style of writing, specifically [[../../Romans|Romans]]. The style of writing makes it easier to read than most of the writing in the Old Testament (Prophecy, Wisdom, Poetry, Narative). However, there are still some tricky passages in the Epistles that makes interpretation not so simple.
 
 Epistles are **Occasional Documents**. They are theology written with a particular need.
 
 ## Books of the Epistle Genre
 ...
-[[../../Romans Overview|Romans]]
+[[../../Romans|Romans]]
 [[Hebrews Overview|Hebrews]]
 [[../../Ephesians Overview|Ephesians]]
 
-[[../../Jude Overview|Jude Overview]]
+[[../../Jude|Jude]]
 [[../../Philemon|Philemon]]
-[[../../1 Peter Overview|1 Peter Overview]]
+[[../../1 Peter|1 Peter]]
 ...
 
 ## Form
