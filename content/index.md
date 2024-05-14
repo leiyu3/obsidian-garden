@@ -24,7 +24,7 @@ Take at look at my [[./200 Slipbox/now|now]] page.
 ## Projects
 - [MathRacer](https://leiyu3.github.io/mathracer/), web app built with JavaScript and Bootstrap to help elementary students practice their multiplication tables.
 - [Jam n’ Tea](https://jamntea.ca/), a website for international student ministry in Toronto. Built using Django and deployed with Nginx and Gunicorn.
-- [CGCSE Library](https://library.cgcse.ca), a library catalogue web app for my Church's library. Built using React and Flask, deployed with Nginx and Gunicorn.
+- [Church Library](https://library.cgcse.ca), a library catalogue web app for my Church's library. Built using React and Flask, deployed with Nginx and Gunicorn.
 
 ## Purpose of this Website
 I made this website because 
