@@ -2,6 +2,7 @@
 date: 2023-08-23
 aliases:
   - Bible Study
+  - How to Read the Bible
 tags: 
 publish: true
 related:

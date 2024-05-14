@@ -11,7 +11,7 @@ For high school math notes I usually go to [Jensen Math](https://www.jensenmath.
 - [[../../Real Numbers|Real Numbers]]
 
 ## Grade 9 Stuff
-- [[../../Exponent Law|Exponent Law]]
+- [[./Exponent Law|Exponent Law]]
 - [[./Polynomial Expressions|Polynomial Expressions]]
 - [[./Algebra|Algebra]]
 - [[./Linear Equation|Linear Equation]]
@@ -27,6 +27,6 @@ For high school math notes I usually go to [Jensen Math](https://www.jensenmath.
 [[./Grade 10 Math|Grade 10 Math]]
 
 ## First Year
-- [[../../MTH140 - Calculus 1|MTH140 - Calculus 1]]
+- [[MTH140 - Calculus 1|MTH140 - Calculus 1]]
 
 [[../../Probability|Probability]]

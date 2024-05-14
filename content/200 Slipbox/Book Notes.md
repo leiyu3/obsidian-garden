@@ -34,10 +34,5 @@ Below are notes from books that I have read. They are mostly for personal use an
 - [[./Knowing the Living God by Paul Washer|Knowing the Living God by Paul Washer]]
 - [[./How to Read the Bible for All Its Worth by Gorden D. Fee|How to Read the Bible for All Its Worth by Gorden D. Fee]]
 
-## Non-published Book Notes
-- [[../../Amy Carmichael Rescuer of Precious Gems by Janet Benge|Amy Carmichael Rescuer of Precious Gems by Janet Benge]]
-- [[../../My Upmost For His Highest by Oswald Chamber|My Upmost For His Highest by Oswald Chamber]]
-- [[../../Confronting Christianity by Rebecca McLaughlin|Confronting Christianity by Rebecca McLaughlin]]
-
 
 Inspired by [Derek Siver](https://sive.rs/book).

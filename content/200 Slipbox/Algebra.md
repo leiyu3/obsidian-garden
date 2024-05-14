@@ -3,6 +3,8 @@ date: 2023-12-21
 aliases: 
 title: Algebra
 publish: true
+related:
+  - "[[Mathematics|Mathematics]]"
 ---
 
 This is where math starts using letters.

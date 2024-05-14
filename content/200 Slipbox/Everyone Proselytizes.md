@@ -3,7 +3,8 @@ date: 2024-04-23
 aliases: 
 title: Everyone Proselytizes!
 publish: true
-related: 
+related:
+  - "[[Apologetics|Apologetics]]"
 tags:
   - mini_essay
 ---

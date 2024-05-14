@@ -15,7 +15,7 @@ Epistles are **Occasional Documents**. They are theology written with a particul
 ...
 [[../../Romans|Romans]]
 [[Hebrews Overview|Hebrews]]
-[[../../Ephesians Overview|Ephesians]]
+[[../../Ephesians|Ephesians]]
 
 [[../../Jude|Jude]]
 [[../../Philemon|Philemon]]
