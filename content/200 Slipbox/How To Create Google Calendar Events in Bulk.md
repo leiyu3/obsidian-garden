@@ -2,16 +2,25 @@
 title: How To Create Google Calendar Events in Bulk
 date: 2022-06-19
 mdate: 2022-06-19
-categories:
+tags:
   - how-to
 publish: true
 ---
 
-I am responsible for updating my church's fellowship schedules on the church website. We were using google sheet to share the schedules. But I recently added embedded google calendars to the page to replace the google sheets, I believe that it is a much more elegant solution. But with this change I need a faster way to create events to google calendar. And I have found a way to allow me to create google calendars in bulk. The steps are written [below.](How%2520To%2520Create%2520Google%2520Calendar%2520Events%2520in%2520Bulk.md##method) You can see the web page showing the fellowship schedules [here.](https://chinesegospelchurch.net/cgcse/ministries/fellowships/)
+I am responsible for updating my church's fellowship schedules on the church website. We were using google sheet to share the schedules. But I recently added embedded google calendars to the page to replace the google sheets, I believe that it is a much more elegant solution. But with this change I need a faster way to create events to google calendar. And I have found a way to allow me to create google calendars in bulk. The steps are written [[How To Create Google Calendar Events in Bulk#Method|Method]]. You can see the web page showing the fellowship schedules [here.](https://chinesegospelchurch.net/cgcse/ministries/fellowships/)
 
 ## Method
 
-Add your calendar event in this [Google Sheet Template](https://docs.google.com/spreadsheets/d/1gz1PE-WwtfIlhR_bKiWW93Vq_DmK1dtgCnKzZPR3nIk/edit?usp=sharing). You probably need to make your own copy to be able to edit it. To do that, click `File` &rarr; `Make a Copy`.
+Add your calendar event in this [Google Sheet Template](https://docs.google.com/spreadsheets/d/1gz1PE-WwtfIlhR_bKiWW93Vq_DmK1dtgCnKzZPR3nIk/edit?usp=sharing). You probably need to make your own copy to be able to edit it. To do that, click `File` &rarr; `Make a Copy`. Below is an example is an event of how you would want to fill in the columns.
+
+| Column     | Format             |
+| ---------- | ------------------ |
+| Subject    | Beach & Picnic Day |
+| Start Date | 8/9/2024           |
+| Start Time | 7:30:00 PM         |
+| End Date   | 8/9/2024           |
+| End Time   | 9:30:00 PM         |
+
 
 After adding your calendar events, export as `.csv` file (`File` &rarr; `Download` &rarr; `Comma Separated Values`).
 
@@ -25,6 +34,8 @@ If there is any errors that came up when you're importing the `CSV` file. Check 
 
 
 ### Format of the CSV File
-| Subject | Start Date | Start Time |
-| ---- | ---- | ---- |
-| `text` | `mm/dd/yyyy` | `hh:mm:ss AM/PM` |
+If you want more details on how Google Calendar parses the csv file, read the [doc](https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop).
+
+| Subject | Start Date   | Start Time       |
+| ------- | ------------ | ---------------- |
+| `text`  | `mm/dd/yyyy` | `hh:mm:ss AM/PM` |
