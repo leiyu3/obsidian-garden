@@ -8,6 +8,7 @@ date: 2024-04-20
 Below are notes from books that I have read. They are mostly for personal use and of things that I think are interesting or important. So the context might be missing, but I decided that it might still be fun to share them publicly.
 
 ## Published Book Notes
+- [[./Confronting Christianity by Rebecca McLaughlin|Confronting Christianity by Rebecca McLaughlin]]
 - [[./The Gift of Being Yourself by David G. Benner|The Gift of Being Yourself by David G. Benner]]
 - [[./Seven Days of Faith by Paul Stevens|Seven Days of Faith by Paul Stevens]]
 - [[./Why Is There Evil by R.C. Sproul|Why Is There Evil by R.C. Sproul]]
