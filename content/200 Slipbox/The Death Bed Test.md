@@ -3,6 +3,9 @@ date: 2024-02-06
 aliases: 
 title: The Death Bed Test
 publish: true
+related:
+  - "[[Personal Vision|Personal Vision]]"
+  - "[[Philosophy|Philosophy]]"
 ---
 The death bed test, helps you kept you brain thinking about what is important for you.
 
