@@ -68,22 +68,6 @@ John 1:12 But to all who did receive him, who believed in his name, he gave the 
 John 3:3 Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."  
 
 
-[Paul Washer](https://www.youtube.com/watch?v=t1BWSOVNm4A)
-
-What is Christianity?
-- Has to do with the person of Christ
-Christ
-- Promise of the Messiah
-- Genesis
-    - God created the world and it was good
-    - People disobeyed
-
-https://www.youtube.com/watch?v=zqXrhr3NshI
-- Concentrate on the Gospel
-- If they have a genuine question answer it, but don't count on anything that is not the gospel to convert them
-- Serve them, humble yourself before them
-- Roman 1:16, the power fo the gospel
-- The scripture will defend itself
 
 
 [[../../The Pre-Gospel|The Pre-Gospel]]
