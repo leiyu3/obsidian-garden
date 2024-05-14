@@ -3,7 +3,8 @@ date: 2024-04-20
 aliases: 
 title: Notes on James
 publish: true
-related: 
+related:
+  - "[[James|James]]"
 ---
 
 ## James 1:1-11
