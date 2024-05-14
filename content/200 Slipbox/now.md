@@ -34,7 +34,6 @@ Getting back into running, aiming to do a sub 25 min 5k. And body weight exercis
 ### What am I Reading?
 - Going though the M'Cheyne bible reading plan for 2024.
 - Going through* [[./The Ruthless Elimination of Hurry by John Mark Comer|The Ruthless Elimination of Hurry by John Mark Comer]]* by *John Mark Comer* with Church Small Group
-- Reading [[../../Confronting Christianity by Rebecca McLaughlin|Confronting Christianity by Rebecca McLaughlin]]
 - Going through the New Testament in a Year in Japanese
 
 This is [A Now Page](https://nownownow.com/about) inspired by [Derek Sivers](https://sive.rs/).
