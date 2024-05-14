@@ -127,3 +127,39 @@ Satan wants us to ask these questions instead?
 - is it progressive or reactionary?
 
 Satan has changed the "unchanged" to an emotional word "stagnant".
+
+
+## Letter 20
+
+Screwtape suggest Wormwood to tell Christian a lie:
+- The only way to give rid of a demon/temptation is to give in to it.
+
+God is always there to protect us, He also asked us to persevere, to grow
+- The more we give in to temptation the devil will be more able to use the temptation
+
+## Attraction
+- The type of women he would recommend to the patient
+- The Lowerarchy
+    - Those that are lower, they are in charged of what is bigger
+    - There seem to be a hierarchy with the angle.
+- Attractiveness trend
+    - misdirected attraction
+- We are naturally attracted to what is good
+    - but not all good is of equal important
+- Distract us from what is the really good, to the okay good
+- Secondary good
+    - Sexual taste: blond, chiseled body, no beard, preference...
+    - Looks, wealth, social standing etc..
+    - youthfulness, transitional, something that can't last forever
+- Instead of being attracted to something enduring and lasting but to something passing
+    - highschool, university, unfortunate
+    - best of life is still to come (eternity with God)
+
+2 type of venus (feminine figure)
+1. Terrestrial
+    - rooted and grounded in what is good in the true nature of what it means to be a women
+    - God can be there
+2. Infernal
+    - attracted for a women for all that is bad
+    - attracted for something with all the wrong reason not the right reason
+        - God isn't there
