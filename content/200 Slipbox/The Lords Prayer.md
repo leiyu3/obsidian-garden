@@ -5,7 +5,7 @@ tags: []
 publish: true
 related:
   - "[[Prayer|Prayer]]"
-  - "[[God|God]]"
+  - "[[MOC - Theology|MOC - Theology]]"
   - "[[The Lords Prayer|The Lords Prayer]]"
 ---
 
