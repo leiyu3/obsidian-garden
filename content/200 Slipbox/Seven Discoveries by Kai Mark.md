@@ -23,7 +23,7 @@ Pre-discipleship Material
 [[../../Existence of God|Existence of God]]
 [[../../MOC - Theology|MOC - Theology]]
 
-## Word of God
+# Word of God
 - Goes into some arguments/proofs for why the Bible is the Word of God
 - The Bible It Self Says It is the Word of God
 - Old Literature with the most manuscript available

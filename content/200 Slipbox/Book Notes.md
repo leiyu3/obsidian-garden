@@ -30,7 +30,6 @@ Below are notes from books that I have read. They are mostly for personal use an
 - [[./The Numbers of Hope by Max Lucado|The Numbers of Hope by Max Lucado]]
 - [[./God's Smuggler by Brother Andrew|God's Smuggler by Brother Andrew]]
 - [[./1984 by George Orwell|1984 by George Orwell]]
-- [[./The Screwtape Letters by C.S. Lewis|The Screwtape Letters by C.S. Lewis]]
 - [[./Mere Christianity by C.S. Lewis|Mere Christianity by C.S. Lewis]]
 - [[./Knowing the Living God by Paul Washer|Knowing the Living God by Paul Washer]]
 - [[./How to Read the Bible for All Its Worth by Gorden D. Fee|How to Read the Bible for All Its Worth by Gorden D. Fee]]
