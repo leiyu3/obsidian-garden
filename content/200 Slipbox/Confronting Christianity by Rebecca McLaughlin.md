@@ -9,6 +9,7 @@ publish: true
 recommended-by: 
 date_started: 2024-05-02
 date_finished: 2024-05-14
+date: 2024-05-14
 ---
 
 ## Aren't We Better Off Without Religion?
