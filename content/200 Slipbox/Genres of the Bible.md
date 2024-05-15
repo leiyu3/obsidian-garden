@@ -12,5 +12,5 @@ There are different genres in the Bible. Different genres have different rule on
 - Poetry
 - Prophecy
 - [[./Epistles|Epistles (Letters)]]
-- [[./The Gospel|The Gospel]]
+- [[../../The Gospel|The Gospel]]
 	- [[./Parables|Parables]]
