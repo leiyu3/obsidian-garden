@@ -23,3 +23,7 @@ Vector subtraction
 ## Grade 12 Physics
 
 [[../attachments/Grade 12 Physics.pdf|Grade 12 Physics.pdf]]
+
+[[./Physics Waves and Fields|Physics Waves and Fields]]
+
+[[./MEC323 Static Mechanics|MEC323 Static Mechanics]]
