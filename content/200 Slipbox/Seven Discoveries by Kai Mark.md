@@ -20,7 +20,7 @@ Pre-discipleship Material
 
 ## Who is God?
 [[../../Existence of God|Existence of God]]
-[[../../God|God]]
+[[../../MOC - Theology|MOC - Theology]]
 
 ## Word of God
 - Goes into some arguments/proofs for why the Bible is the Word of God
