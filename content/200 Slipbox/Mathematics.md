@@ -27,6 +27,7 @@ For high school math notes I usually go to [Jensen Math](https://www.jensenmath.
 [[./Grade 10 Math|Grade 10 Math]]
 
 ## First Year
-- [[MTH140 - Calculus 1|MTH140 - Calculus 1]]
+- [[../../Calculus|Calculus]]
+- [[./Calculus 2|Calculus 2]]
 
 [[../../Probability|Probability]]
